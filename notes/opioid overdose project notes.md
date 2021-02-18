@@ -24,6 +24,7 @@
 	* Look at regions across the use that effect vary in high vs low prevalence regions
 * **Chronic vs acute** 
 	* Based on continuous prescription > 30 days (using allowable gap) to define chronic prescriptions vs acute prescriptions (<30 days of continuous prescription)
+	* Use conditions to define acute and chronic pain managment. e.g. use most common surgical procedures that prescibe opioids or conditions like kidney stones to classify acute vs chronic (chronic would be like cancer). 
 	* Effects should be attenuated among chronic users as they are more likely to take all of their meds (less likely to have meds left over that family members can take an overdose on)
 	* Effects should be greater among acute as they may not complete the course of their meds (more likely to have meds left over that family members can take an overdose on)
 
