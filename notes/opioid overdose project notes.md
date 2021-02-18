@@ -81,11 +81,11 @@
 	* Tract-level median family income 
 
 ## Innovations
-* Truven national wide data, large sample size. Not limiting just to youth or adolescents.
+* Truven nationwide data, large sample size. Not limiting to just youths or adolescents.
 * Instead of just using MME, intereact number of pills (or pathes or ml) by MME/pill (or per path or per ml) to get at the amont dispensed. We could use days supply by after talking to Ryan, he made me realize that days supply is not really accurate. 
 * Look at interaction between exposure and age (like in the CDIFF paper)
-* If possible stratify by fatal and non-fatal
-* Maybe also look at both overdoses and dependence abuse sperately
+* If possible stratify by fatal and non-fatal?
+* Maybe also look at both overdoses and dependence abuse sperately?
 * Use data driven approach to classify chronic and acute opioid use (< 30 day as cutoff for acute?), then stratify by chronic vs acute (or add interaction term)
 
 
