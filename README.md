@@ -6,6 +6,7 @@ This repository contains parameters, scripts and results for the various delayed
 * **analysis_scripts** - contains the main analysis scripts and the various projects.
 * **results** - contains the current results for each project corresponding to the procedures proformed by the analysis scripts.
 * **prospectus** - contains the relevant materials for the prospectus.
+* **notes** - contains notes for the specific projects.
 
 ## Projects
 A *project* defines a specific aim of the dissertation
