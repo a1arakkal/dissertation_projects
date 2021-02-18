@@ -1,18 +1,18 @@
 #  Assessing the association between exposure to opioids prescribed to family members and risk of overdose 
 
 ## Research question
-	*	If a family member in a household has been prescribe opioids, does that increase the risk of overdose for other family member in that household?
+* If a family member in a household has been prescribe opioids, does that increase the risk of overdose for other family member in that household?
 	
 ## Study population
-	*	Insured population capture in Truven from 2001-2017 with >= 2 family member in insurance plan (about 142 million). 
+* Insured population capture in Truven from 2001-2017 with >= 2 family member in insurance plan (about 142 million). 
 	
 ## Exposure
-	*	Opioid prescriptions in household vs. no prescriptions in household in the past 30 days (prior to overdose or start of the month for those that have never overdosed)?
-	*	Need to come up with opioid ndc codes 
-	*	**Conversion of days supply and strength into one metric**
-		*	Strength per Unit  X  (Number of Units/ Days Supply)  X  MME conversion factor  =  	MME/Day
-		*	Apparent prescribed daily  = Strength per EU x (quantity/days supply) = dose (PDD)
-	*	**Exposure as a function of high vs low risk opioid’s and days supply**
+* Opioid prescriptions in household vs. no prescriptions in household in the past 30 days (prior to overdose or start of the month for those that have never overdosed)?
+* Need to come up with opioid ndc codes 
+* **Conversion of days supply and strength into one metric**
+	* Strength per Unit  X  (Number of Units/ Days Supply)  X  MME conversion factor  =  	MME/Day
+	* Apparent prescribed daily  = Strength per EU x (quantity/days supply) = dose (PDD)
+* **Exposure as a function of high vs low risk opioid’s and days supply**
 		* 	instead of high vs low look at interaction between MME per pill and number of pills
 		*	so maybe first look at MME overall, then interaction between MME per pill and number of pills (or MME per patch for patched or MME per ml for liquids)
 		*	Aggregate over all family member in the past 30 days.
