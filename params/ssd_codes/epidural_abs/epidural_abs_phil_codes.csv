@@ -1,0 +1,481 @@
+﻿x,version,cat
+33819 (Other acute pain),9,Symptom-Based Diagnoses
+33829 (Other chronic pain),9,Symptom-Based Diagnoses
+"56400 (Constipation, unspecified)",9,Symptom-Based Diagnoses
+"71940 (Pain in joint, site unspecified) ",9,Symptom-Based Diagnoses
+"71941 (Pain in joint, shoulder region) ",9,Symptom-Based Diagnoses
+"71942 (Pain in joint, upper arm)",9,Symptom-Based Diagnoses
+"71943 (Pain in joint, forearm)",9,Symptom-Based Diagnoses
+"71944 (Pain in joint, hand)",9,Symptom-Based Diagnoses
+"71945 (Pain in joint, pelvic region and thigh)",9,Symptom-Based Diagnoses
+"71946 (Pain in joint, lower leg)",9,Symptom-Based Diagnoses
+"71947 (Pain in joint, ankle and foot)",9,Symptom-Based Diagnoses
+"71949 (Pain in joint, multiple sites) ",9,Symptom-Based Diagnoses
+7197 (Difficulty in walking),9,Symptom-Based Diagnoses
+7231 (Cervicalgia) ,9,Symptom-Based Diagnoses
+7241 (Pain in thoracic spine) ,9,Symptom-Based Diagnoses
+7242 (Lumbago) ,9,Symptom-Based Diagnoses
+"7245 (Backache, unspecified)",9,Symptom-Based Diagnoses
+7248 (Other symptoms referable to back),9,Symptom-Based Diagnoses
+72887 (Muscle weakness (generalized)) ,9,Symptom-Based Diagnoses
+"7291 (Myalgia and myositis, unspecified)",9,Symptom-Based Diagnoses
+7295 (Pain in limb) ,9,Symptom-Based Diagnoses
+72982 (Cramp of limb),9,Symptom-Based Diagnoses
+72989 (Other musculoskeletal symptoms referable to limbs),9,Symptom-Based Diagnoses
+7806 (Fever and other physiologic disturbances of temperature regulation),9,Symptom-Based Diagnoses
+"78060 (Fever, unspecified)",9,Symptom-Based Diagnoses
+78079 (Other malaise and fatigue) ,9,Symptom-Based Diagnoses
+78096 (Generalized pain),9,Symptom-Based Diagnoses
+78199 (Other symptoms involving nervous and musculoskeletal systems),9,Symptom-Based Diagnoses
+7820 (Disturbance of skin sensation),9,Symptom-Based Diagnoses
+7840 (Headache) ,9,Symptom-Based Diagnoses
+78605 (Shortness of breath),9,Symptom-Based Diagnoses
+"78650 (Chest pain, unspecified)",9,Symptom-Based Diagnoses
+78651 (Precordial pain),9,Symptom-Based Diagnoses
+78652 (Painful respiration),9,Symptom-Based Diagnoses
+78659 (Other chest pain),9,Symptom-Based Diagnoses
+"78720 (Dysphagia, unspecified)",9,Symptom-Based Diagnoses
+"78900 (Abdominal pain, unspecified site)",9,Symptom-Based Diagnoses
+"78901 (Abdominal pain, right upper quadrant)",9,Symptom-Based Diagnoses
+"78903 (Abdominal pain, right lower quadrant)",9,Symptom-Based Diagnoses
+"78904 (Abdominal pain, left lower quadrant)",9,Symptom-Based Diagnoses
+"78905 (Abdominal pain, left upper quadrant)",9,Symptom-Based Diagnoses
+"78906 (Abdominal pain, epigastric)",9,Symptom-Based Diagnoses
+"78907 (Abdominal pain, generalized)",9,Symptom-Based Diagnoses
+"78909 (Abdominal pain, other specified site)",9,Symptom-Based Diagnoses
+7881 (Dysuria),9,Symptom-Based Diagnoses
+78841 (Urinary frequency),9,Symptom-Based Diagnoses
+"486 (Pneumonia, organism unspecified)",9,Alternative-Infectious-Disease-Related Diagnoses
+"5990 (Urinary tract infection, site not specified)",9,Alternative-Infectious-Disease-Related Diagnoses
+07999 (Unspecified viral infection),9,Alternative-Infectious-Disease-Related Diagnoses
+"2749 (Gout, unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71500 (Osteoarthrosis, generalized, site unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71509 (Osteoarthrosis, generalized, multiple sites)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71511 (Osteoarthrosis, localized, primary, shoulder region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71515 (Osteoarthrosis, localized, primary, pelvic region and thigh)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71516 (Osteoarthrosis, localized, primary, lower leg)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71530 (Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71536 (Osteoarthrosis, localized, not specified whether primary or secondary, lower leg)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71590 (Osteoarthrosis, unspecified whether generalized or localized, site unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71591 (Osteoarthrosis, unspecified whether generalized or localized, shoulder region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71595 (Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71596 (Osteoarthrosis, unspecified whether generalized or localized, lower leg)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71597 (Osteoarthrosis, unspecified whether generalized or localized, ankle and foot)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71648 (Transient arthropathy, other specified sites)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71688 (Other specified arthropathy, other specified sites)",9,Alternative-Musculoskeletal-Related Diagnoses
+"71690 (Arthropathy, unspecified, site unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"7202 (Sacroiliitis, not elsewhere classified)",9,Alternative-Musculoskeletal-Related Diagnoses
+7210 (Cervical spondylosis without myelopathy) ,9,Alternative-Musculoskeletal-Related Diagnoses
+7211 (Cervical spondylosis with myelopathy),9,Alternative-Musculoskeletal-Related Diagnoses
+7212 (Thoracic spondylosis without myelopathy),9,Alternative-Musculoskeletal-Related Diagnoses
+7213 (Lumbosacral spondylosis without myelopathy),9,Alternative-Musculoskeletal-Related Diagnoses
+"72142 (Spondylosis with myelopathy, lumbar region)",9,Alternative-Musculoskeletal-Related Diagnoses
+7218 (Other allied disorders of spine),9,Alternative-Musculoskeletal-Related Diagnoses
+"72190 (Spondylosis of unspecified site, without mention of myelopathy)",9,Alternative-Musculoskeletal-Related Diagnoses
+7220 (Displacement of cervical intervertebral disc without myelopathy),9,Alternative-Musculoskeletal-Related Diagnoses
+72210 (Displacement of lumbar intervertebral disc without myelopathy),9,Alternative-Musculoskeletal-Related Diagnoses
+72211 (Displacement of thoracic intervertebral disc without myelopathy),9,Alternative-Musculoskeletal-Related Diagnoses
+"7222 (Displacement of intervertebral disc, site unspecified, without myelopathy)",9,Alternative-Musculoskeletal-Related Diagnoses
+7224 (Degeneration of cervical intervertebral disc) ,9,Alternative-Musculoskeletal-Related Diagnoses
+72251 (Degeneration of thoracic or thoracolumbar intervertebral disc),9,Alternative-Musculoskeletal-Related Diagnoses
+72252 (Degeneration of lumbar or lumbosacral intervertebral disc),9,Alternative-Musculoskeletal-Related Diagnoses
+"7226 (Degeneration of intervertebral disc, site unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72271 (Intervertebral disc disorder with myelopathy, cervical region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72273 (Intervertebral disc disorder with myelopathy, lumbar region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72290 (Other and unspecified disc disorder, unspecified region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72292 (Other and unspecified disc disorder, thoracic region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72293 (Other and unspecified disc disorder, lumbar region)",9,Alternative-Musculoskeletal-Related Diagnoses
+7230 (Spinal stenosis in cervical region),9,Alternative-Musculoskeletal-Related Diagnoses
+7232 (Cervicocranial syndrome),9,Alternative-Musculoskeletal-Related Diagnoses
+7233 (Cervicobrachial syndrome (diffuse)),9,Alternative-Musculoskeletal-Related Diagnoses
+7238 (Other syndromes affecting cervical region),9,Alternative-Musculoskeletal-Related Diagnoses
+7239 (Unspecified musculoskeletal disorders and symptoms referable to neck),9,Alternative-Musculoskeletal-Related Diagnoses
+"72400 (Spinal stenosis, unspecified region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72401 (Spinal stenosis, thoracic region)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72402 (Spinal stenosis, lumbar region, without neurogenic claudication)",9,Alternative-Musculoskeletal-Related Diagnoses
+"72403 (Spinal stenosis, lumbar region, with neurogenic claudication)",9,Alternative-Musculoskeletal-Related Diagnoses
+7243 (Sciatica),9,Alternative-Musculoskeletal-Related Diagnoses
+"7244 (Thoracic or lumbosacral neuritis or radiculitis, unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+7246 (Disorders of sacrum),9,Alternative-Musculoskeletal-Related Diagnoses
+72470 (Unspecified disorder of coccyx),9,Alternative-Musculoskeletal-Related Diagnoses
+72479 (Other disorders of coccyx),9,Alternative-Musculoskeletal-Related Diagnoses
+7249 (Other unspecified back disorders),9,Alternative-Musculoskeletal-Related Diagnoses
+"72610 (Disorders of bursae and tendons in shoulder region, unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+"7262 (Other affection of shoulder region, not elsewhere classified)",9,Alternative-Musculoskeletal-Related Diagnoses
+7265 (Enthesopathy of hip region),9,Alternative-Musculoskeletal-Related Diagnoses
+72706 (Tenosynovitis of foot and ankle),9,Alternative-Musculoskeletal-Related Diagnoses
+72885 (Spasm of muscle),9,Alternative-Musculoskeletal-Related Diagnoses
+"7289 (Unspecified disorder of muscle, ligament, and fascia)",9,Alternative-Musculoskeletal-Related Diagnoses
+72999 (Other disorders of soft tissue non-all),9,Alternative-Musculoskeletal-Related Diagnoses
+"73300 (Osteoporosis, unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+73301 (Senile osteoporosis),9,Alternative-Musculoskeletal-Related Diagnoses
+73313 (Pathologic fracture of vertebrae),9,Alternative-Musculoskeletal-Related Diagnoses
+"73390 (Disorder of bone and cartilage, unspecified)",9,Alternative-Musculoskeletal-Related Diagnoses
+73399 (Other disorders of bone and cartilage),9,Alternative-Musculoskeletal-Related Diagnoses
+"73730 (Scoliosis [and kyphoscoliosis], idiopathic)",9,Alternative-Musculoskeletal-Related Diagnoses
+73739 (Other kyphoscoliosis and scoliosis),9,Alternative-Musculoskeletal-Related Diagnoses
+7384 (Acquired spondylolisthesis),9,Alternative-Musculoskeletal-Related Diagnoses
+75612 (Spondylolisthesis),9,Alternative-Musculoskeletal-Related Diagnoses
+8052 (Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury),9,Alternative-Musculoskeletal-Related Diagnoses
+8054 (Closed fracture of lumbar vertebra without mention of spinal cord injury),9,Alternative-Musculoskeletal-Related Diagnoses
+"83908 (Closed dislocation, multiple cervical vertebrae)",9,Alternative-Musculoskeletal-Related Diagnoses
+"83920 (Closed dislocation, lumbar vertebra)",9,Alternative-Musculoskeletal-Related Diagnoses
+"83921 (Closed dislocation, thoracic vertebra)",9,Alternative-Musculoskeletal-Related Diagnoses
+"83921 (Open dislocation, thoracic vertebra)",9,Alternative-Musculoskeletal-Related Diagnoses
+8409 (Sprains and strains of unspecified site of shoulder and upper arm),9,Alternative-Musculoskeletal-Related Diagnoses
+8439 (Sprains and strains of unspecified site of hip and thigh),9,Alternative-Musculoskeletal-Related Diagnoses
+8449 (Sprains and strains of unspecified site of knee and leg),9,Alternative-Musculoskeletal-Related Diagnoses
+"84500 (Sprain of ankle, unspecified site)",9,Alternative-Musculoskeletal-Related Diagnoses
+8460 (Sprain of lumbosacral (joint) (ligament)),9,Alternative-Musculoskeletal-Related Diagnoses
+8461 (Sprain of sacroiliac ligament),9,Alternative-Musculoskeletal-Related Diagnoses
+8470 (Sprain of neck),9,Alternative-Musculoskeletal-Related Diagnoses
+8471 (Sprain of thoracic),9,Alternative-Musculoskeletal-Related Diagnoses
+8472 (Sprain of lumbar),9,Alternative-Musculoskeletal-Related Diagnoses
+8479 (Sprain of unspecified site of back),9,Alternative-Musculoskeletal-Related Diagnoses
+8485 (Sprain of pelvic),9,Alternative-Musculoskeletal-Related Diagnoses
+8488 (Other specified sites of sprains and strains),9,Alternative-Musculoskeletal-Related Diagnoses
+9089 (Late effect of unspecified injury),9,Alternative-Musculoskeletal-Related Diagnoses
+95909 (Neck injury),9,Alternative-Musculoskeletal-Related Diagnoses
+9596 (Hip and thigh injury),9,Alternative-Musculoskeletal-Related Diagnoses
+"9597 (Knee, leg, ankle and foot injury)",9,Alternative-Musculoskeletal-Related Diagnoses
+30781 (Tension headache),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"3239 (Unspecified causes of encephalitis, myelitis, and encephalomyelitis)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+3320 (Paralysis agitans) ,9,Alternative-Neurologic or Vascular-Related Diagnoses
+3361 (Vascular myelopathies),9,Alternative-Neurologic or Vascular-Related Diagnoses
+3368 (Other myelopathy),9,Alternative-Neurologic or Vascular-Related Diagnoses
+3369 (Unspecified disease of spinal cord) ,9,Alternative-Neurologic or Vascular-Related Diagnoses
+3384 (Chronic pain syndrome) ,9,Alternative-Neurologic or Vascular-Related Diagnoses
+"33910 (Tension type headache, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+34281 (Other specified hemiplegia and hemiparesis affecting dominant side),9,Alternative-Neurologic or Vascular-Related Diagnoses
+34282 (Other specified hemiplegia and hemiparesis affecting nondominant side),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"34290 (Hemiplegia, unspecified, affecting unspecified side) ",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"34291 (Hemiplegia, unspecified, affecting dominant side)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"34292 (Hemiplegia, unspecified, affecting nondominant side)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"34400 (Quadriplegia, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+34409 (Other quadriplegia),9,Alternative-Neurologic or Vascular-Related Diagnoses
+3441 (Paraplegia) ,9,Alternative-Neurologic or Vascular-Related Diagnoses
+"34610 (Migraine without aura, without mention of intractable migraine without mention of status migrainosus)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+3530 (Brachial plexus lesions),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"3532 (Cervical root lesions, not elsewhere classified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+3540 (Carpal tunnel syndrome),9,Alternative-Neurologic or Vascular-Related Diagnoses
+3542 (Lesion of ulnar nerve),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"3558 (Mononeuritis of lower limb, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+3559 (Mononeuritis of unspecified site),9,Alternative-Neurologic or Vascular-Related Diagnoses
+3569 (Unspecified hereditary and idiopathic peripheral neuropathy),9,Alternative-Neurologic or Vascular-Related Diagnoses
+3579 (Unspecified inflammatory and toxic neuropathy),9,Alternative-Neurologic or Vascular-Related Diagnoses
+4359 (Unspecified transient cerebral ischemia),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"436 (Acute, but ill-defined, cerebrovascular disease)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"43822 (Late effects of cerebrovascular disease, hemiplegia affecting nondominant side)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"4439 (Peripheral vascular disease, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+7135 (Arthropathy associated with neurological disorders),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"7291 (Myositis, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"7292 (Neuralgia, neuritis, and radiculitis, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+7234 (Brachial neuritis or radiculitis NOS),9,Alternative-Neurologic or Vascular-Related Diagnoses
+"7235 (Torticollis, unspecified)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"73605 (Wrist drop, acquired)",9,Alternative-Neurologic or Vascular-Related Diagnoses
+"57420 (Calculus of gallbladder without mention of cholecystitis, without mention of obstruction)",9,Alternative-GI/GU-Related Diagnoses
+5920 (Calculus of kidney),9,Alternative-GI/GU-Related Diagnoses
+"5932 (Cyst of kidney, acquired)",9,Alternative-GI/GU-Related Diagnoses
+59654 (Neurogenic bladder NOS),9,Alternative-GI/GU-Related Diagnoses
+"78820 (Retention of urine, unspecified)",9,Alternative-GI/GU-Related Diagnoses
+"78830 (Urinary incontinence, unspecified)",9,Alternative-GI/GU-Related Diagnoses
+28529 (Anemia of other chronic disease),9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"2859 (Anemia, unspecified)",9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"2875 (Thrombocytopenia, unspecified) ",9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"28860 (Leukocytosis, unspecified) ",9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+7812 (Abnormality of gait),9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+78321 (Loss of weight) ,9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+7937 (Nonspecific (abnormal) findings on radiological and other examination of musculoskeletal system),9,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+G8929 (Other chronic pain),10,Symptom-Based Diagnoses
+"K5900 (Constipation, unspecified)",10,Symptom-Based Diagnoses
+M160 (Bilateral primary osteoarthritis of hip),10,Symptom-Based Diagnoses
+M2550 (Pain in unspecified joint),10,Symptom-Based Diagnoses
+M25511 (Pain in right shoulder),10,Symptom-Based Diagnoses
+M25512 (Pain in left shoulder),10,Symptom-Based Diagnoses
+M25519 (Pain in unspecified shoulder),10,Symptom-Based Diagnoses
+M25529 (Pain in unspecified elbow),10,Symptom-Based Diagnoses
+M25531 (Pain in right wrist),10,Symptom-Based Diagnoses
+M25532 (Pain in left wrist),10,Symptom-Based Diagnoses
+M25539 (Pain in unspecified wrist),10,Symptom-Based Diagnoses
+M25551 (Pain in right hip),10,Symptom-Based Diagnoses
+M25552 (Pain in left hip),10,Symptom-Based Diagnoses
+M25559 (Pain in unspecified hip),10,Symptom-Based Diagnoses
+M25569 (Pain in unspecified knee),10,Symptom-Based Diagnoses
+M25579 (Pain in unspecified ankle and joints of unspecified foot),10,Symptom-Based Diagnoses
+M545 (Low back pain),10,Symptom-Based Diagnoses
+M546 (Pain in thoracic spine),10,Symptom-Based Diagnoses
+M5489 (Other dorsalgia),10,Symptom-Based Diagnoses
+"M549 (Dorsalgia, unspecified)",10,Symptom-Based Diagnoses
+M6281 (Muscle weakness (generalized)),10,Symptom-Based Diagnoses
+M62830 (Muscle spasm of back),10,Symptom-Based Diagnoses
+M791 (Myalgia),10,Symptom-Based Diagnoses
+M79601 (Pain in right arm),10,Symptom-Based Diagnoses
+M79602 (Pain in left arm),10,Symptom-Based Diagnoses
+M79604 (Pain in right leg) ,10,Symptom-Based Diagnoses
+M79605 (Pain in left leg),10,Symptom-Based Diagnoses
+"M79606 (Pain in leg, unspecified)",10,Symptom-Based Diagnoses
+M79609 (Pain in unspecified limb),10,Symptom-Based Diagnoses
+M79641 (Pain in right hand),10,Symptom-Based Diagnoses
+M79642 (Pain in left hand),10,Symptom-Based Diagnoses
+M79643 (Pain in unspecified hand),10,Symptom-Based Diagnoses
+M79646 (Pain in unspecified fingers),10,Symptom-Based Diagnoses
+M79661 (Pain in right lower leg),10,Symptom-Based Diagnoses
+M79662 (Pain in left lower leg),10,Symptom-Based Diagnoses
+R071 (Chest pain on breathing),10,Symptom-Based Diagnoses
+R072 (Precordial pain),10,Symptom-Based Diagnoses
+R0781 (Pleurodynia),10,Symptom-Based Diagnoses
+R0782 (Intercostal pain),10,Symptom-Based Diagnoses
+R0789 (Other chest pain),10,Symptom-Based Diagnoses
+"R079 (Chest pain, unspecified)",10,Symptom-Based Diagnoses
+"R1010 (Upper abdominal pain, unspecified)",10,Symptom-Based Diagnoses
+R1011 (Right upper quadrant pain),10,Symptom-Based Diagnoses
+R1012 (Left upper quadrant pain),10,Symptom-Based Diagnoses
+R1013 (Epigastric pain),10,Symptom-Based Diagnoses
+R102 (Pelvic and perineal pain),10,Symptom-Based Diagnoses
+"R1030 (Lower abdominal pain, unspecified)",10,Symptom-Based Diagnoses
+R1031 (Right lower quadrant pain),10,Symptom-Based Diagnoses
+R1032 (Left lower quadrant pain),10,Symptom-Based Diagnoses
+R1084 (Generalized abdominal pain),10,Symptom-Based Diagnoses
+R109 (Unspecified abdominal pain),10,Symptom-Based Diagnoses
+R109 (Unspecified abdominal pain),10,Symptom-Based Diagnoses
+R130 (Aphagia),10,Symptom-Based Diagnoses
+"R1310 (Dysphagia, unspecified)",10,Symptom-Based Diagnoses
+R200 (Anesthesia of skin),10,Symptom-Based Diagnoses
+R201 (Hypoesthesia of skin),10,Symptom-Based Diagnoses
+R202 (Paresthesia of skin),10,Symptom-Based Diagnoses
+R203 (Hyperesthesia),10,Symptom-Based Diagnoses
+R208 (Other disturbances of skin sensation),10,Symptom-Based Diagnoses
+R209 (Unspecified disturbances of skin sensation),10,Symptom-Based Diagnoses
+R252 (Cramp and spasm),10,Symptom-Based Diagnoses
+"R262 (Difficulty in walking, not elsewhere classified)",10,Symptom-Based Diagnoses
+"R270 (Ataxia, unspecified)",10,Symptom-Based Diagnoses
+R29898 (Other symptoms and signs involving the musculoskeletal system),10,Symptom-Based Diagnoses
+R300 (Dysuria),10,Symptom-Based Diagnoses
+"R309 (Painful micturition, unspecified)",10,Symptom-Based Diagnoses
+R350 (Frequency of micturition),10,Symptom-Based Diagnoses
+"R509 (Fever, unspecified) ",10,Symptom-Based Diagnoses
+R51 (Headache),10,Symptom-Based Diagnoses
+"R52 (Pain, unspecified) ",10,Symptom-Based Diagnoses
+R531 (Weakness) ,10,Symptom-Based Diagnoses
+R5381 (Other malaise),10,Symptom-Based Diagnoses
+R5383 (Other fatigue),10,Symptom-Based Diagnoses
+M542 (Cervicalgia),10,Symptom-Based Diagnoses
+B9789 (Other viral agents as the cause of diseases classified elsewhere),10,Alternative-Infectious-Disease-Related Diagnoses
+"J189 (Pneumonia, unspecified organism)",10,Alternative-Infectious-Disease-Related Diagnoses
+"N390 (Urinary tract infection, site not specified)",10,Alternative-Infectious-Disease-Related Diagnoses
+"M109 (Gout, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M1288 (Other specific arthropathies, not elsewhere classified, other specified site)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M129 (Arthropathy, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+M150 (Primary generalized osteoarthritis),10,Alternative-Musculoskeletal-Related Diagnoses
+"M159 (Polyosteoarthritis, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+M160 (Bilateral primary osteoarthritis of hip),10,Alternative-Musculoskeletal-Related Diagnoses
+"M1611 (Unilateral primary osteoarthritis, right hip)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M169 (Osteoarthritis of hip, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M1710 (Unilateral primary osteoarthritis, unspecified knee)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M179 (Osteoarthritis of knee, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M19011 (Primary osteoarthritis, right shoulder)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M1990 (Unspecified osteoarthritis, unspecified site)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M2578 (Osteophyte, vertebrae)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4120 (Other idiopathic scoliosis, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4180 (Other forms of scoliosis, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4186 (Other forms of scoliosis, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M419 (Scoliosis, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4300 (Spondylolysis, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4306 (Spondylolysis, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4310 (Spondylolisthesis, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4312 (Spondylolisthesis, cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4316 (Spondylolisthesis, lumbar region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4317 (Spondylolisthesis, lumbosacral region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M438X9 (Other specified deforming dorsopathies, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M461 (Sacroiliitis, not elsewhere classified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4712 (Other spondylosis with myelopathy, cervical region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4716 (Other spondylosis with myelopathy, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4722 (Other spondylosis with radiculopathy, cervical region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4726 (Other spondylosis with radiculopathy, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4727 (Other spondylosis with radiculopathy, lumbosacral region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47812 (Spondylosis without myelopathy or radiculopathy, cervical region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47814 (Spondylosis without myelopathy or radiculopathy, thoracic region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47816 (Spondylosis without myelopathy or radiculopathy, lumbar region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47817 (Spondylosis without myelopathy or radiculopathy, lumbosacral region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47819 (Spondylosis without myelopathy or radiculopathy, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47892 (Other spondylosis, cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47896 (Other spondylosis, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M47897 (Other spondylosis, lumbosacral region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M479 (Spondylosis, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4800 (Spinal stenosis, site unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4802 (Spinal stenosis, cervical region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4804 (Spinal stenosis, thoracic region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4806 (Spinal stenosis, lumbar region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M48061 (Spinal stenosis, lumbar region without neurogenic claudication)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M48062 (Spinal stenosis, lumbar region with neurogenic claudication)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4807 (Spinal stenosis, lumbosacral region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4850XA (Collapsed vertebra, not elsewhere classified, site unspecified, initial encounter for fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M4856XA (Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M488X4 (Other specified spondylopathies, thoracic region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M489 (Spondylopathy, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5000 (Cervical disc disorder with myelopathy, unspecified cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5002 (Cervical disc disorder with myelopathy, mid−cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5010 (Cervical disc disorder with radiculopathy, unspecified cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5012 (Cervical disc disorder with radiculopathy, mid−cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5013 (Cervical disc disorder with radiculopathy, cervicothoracic region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5020 (Other cervical disc displacement, unspecified cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5021 (Other cervical disc displacement, high cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5022 (Other cervical disc displacement, mid−cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5030 (Other cervical disc degeneration, unspecified cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5031 (Other cervical disc degeneration, high cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5032 (Other cervical disc degeneration, mid−cervical region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5033 (Other cervical disc degeneration, cerviothoracic region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5106 (Intervertebral disc disorders with myelopathy, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5116 (Intervertebral disc disorders with radiculopathy, lumbar region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5117 (Intervertebral disc disorders with radiculopathy, lumbosacral region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5124 (Other intervertebral disc displacement, thoracic region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5126 (Other intervertebral disc displacement, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5127 (Other intervertebral disc displacement, lumbosacral region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5134 (Other intervertebral disc degeneration, thoracic region) ",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5135 (Other intervertebral disc degeneration, thoracolumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5136 (Other intervertebral disc degeneration, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5137 (Other intervertebral disc degeneration, lumbosacral region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5184 (Other intervertebral disc disorders, thoracic region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5185 (Other intervertebral disc disorders, thoracolumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5186 (Other intervertebral disc disorders, lumbar region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M5187 (Other intervertebral disc disorders, lumbosacral region)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M519 (Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M609 (Myositis, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M629 (Disorder of muscle, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M6240 (Contracture of muscle, unspecified site)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M6249 (Contracture of muscle, multiple sites)",10,Alternative-Musculoskeletal-Related Diagnoses
+M62830 (Muscle spasm of back),10,Alternative-Musculoskeletal-Related Diagnoses
+M62838 (Other muscle spasm),10,Alternative-Musculoskeletal-Related Diagnoses
+"M65879 (Other synovitis and tenosynovitis, unspecified ankle and foot)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M7060 (Trochanteric bursitis, unspecified hip)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M7070 (Other bursitis of hip, unspecified hip)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M7610 (Psoas tendinitis, unspecified hip)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M7620 (Iliac crest spur, unspecified hip)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M75100 (Unspecified rotator cuff tear or rupture of unspecified shoulder, not specified as traumatic)",10,Alternative-Musculoskeletal-Related Diagnoses
+M7530 (Calcific tendinitis of unspecified shoulder),10,Alternative-Musculoskeletal-Related Diagnoses
+M7540 (Impingement syndrome of unspecified shoulder),10,Alternative-Musculoskeletal-Related Diagnoses
+M7550 (Bursitis of unspecified shoulder),10,Alternative-Musculoskeletal-Related Diagnoses
+"M7580 (Other shoulder lesions, unspecified shoulder)",10,Alternative-Musculoskeletal-Related Diagnoses
+M7989 (Other specified soft tissue disorders),10,Alternative-Musculoskeletal-Related Diagnoses
+"M8008XA (Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+M810 (Age-related osteoporosis without current pathological fracture),10,Alternative-Musculoskeletal-Related Diagnoses
+M810 (Age−related osteoporosis without current pathological fracture),10,Alternative-Musculoskeletal-Related Diagnoses
+"M8448XA (Pathological fracture, other site, initial encounter for fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M8468XA (Pathological fracture in other disease, other site, initial encounter for fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M8930 (Hypertrophy of bone, unspecified site)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M898X9 (Other specified disorder of bone, unspecified site)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M899 (Disorder of bone, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M948X9 (Other specified disorders of cartilage, unspecified sites)",10,Alternative-Musculoskeletal-Related Diagnoses
+"M949 (Disorder of cartilage, unspecified)",10,Alternative-Musculoskeletal-Related Diagnoses
+M9971 (Connective tissue and disc stenosis of intervertebral foramina of cervical region),10,Alternative-Musculoskeletal-Related Diagnoses
+"S13101A (Dislocation of unspecified cervical vertebrae, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S134XXA (Sprain of ligaments of cervical spine, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S134XXD (Sprain of ligaments of cervical spine, subsequent encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S138XXA (Sprain of joints and ligaments of other parts of neck, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S161XXA (Strain of muscle, fascia and tendon at neck level, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S161XXD (Strain of muscle, fascia and tendon at neck level, subsequent encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S199XXA (Unspecified injury of neck, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S22009A (Unspecified fracture of unspecified thoracic vertebra, initial encounter for closed fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S23131A (Dislocation of T4/T5 thoracic vertebra, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S233XXA (Sprain of ligaments of thoracic spine, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S238XXA (Sprain of other specified parts of thorax, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S239XXA (Sprain of unspecified parts of thorax, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S32009A (Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S33101A (Dislocation of unspecified lumbar vertebra, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S335XXA (Sprain of ligaments of lumbar spine, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S335XXD (Sprain of ligaments of lumbar spine, subsequent encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S336XXA (Sprain of sacroiliac joint, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S338XXA (Sprain of other parts of lumbar spine and pelvis, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S39012A (Strain of muscle, fascia and tendon of lower back, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S39012D (Strain of muscle, fascia and tendon of lower back, subsequent encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S3992XA (Unspecified injury of lower back, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S43409A (Unspecified sprain of unspecified shoulder joint, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S46919A (Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, unspecified arm, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S73109A (Unspecified sprain of unspecified hip, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S76919A (Strain of unspecified muscles, fascia and tendons at thigh level, unspecified thigh, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S79819A (Other specified injuries of unspecified hip, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S79829A (Other specified injuries of unspecified thigh, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S79919A (Unspecified injury of unspecified hip, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S79929A (Unspecified injury of unspecified thigh, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S8390XA (Sprain of unspecified site of unspecified knee, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S86919A (Strain of unspecified muscles and tendons at lower leg level, unspecified leg, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S8980XA (Other specified injuries of unspecified lower leg, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S8990XA (Unspecified injury of unspecified lower leg, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S93409A (Sprain of unspecified ligament of unspecified ankle, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S96919A (Strain of unspecified muscle and tendon at ankle and foot level, unspecified foot, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S99819A (Other specified injuries of unspecified ankle, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"S99919A (Unspecified injury of unspecified ankle, initial encounter)",10,Alternative-Musculoskeletal-Related Diagnoses
+"G0490 (Encephalitis and encephalomyelitis, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G0491 (Myelitis, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G43009 (Migraine without aura, not intractable, without status migrainosus)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G441 (Vascular headache, not elsewhere classified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G44209 (Tension−type headache, unspecified, not intractable)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G459 (Transient cerebral ischemic attack, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+G540 (Brachial plexus disorders),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G542 (Cervical root disorders, not elsewhere classified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G5600 (Carpal tunnel syndrome, unspecified upper limb)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G5601 (Carpal tunnel syndrome, right upper limb)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G5602 (Carpal tunnel syndrome, left upper limb)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G5620 (Lesion of ulnar nerve, unspecified upper limb)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+G5790 (Unspecified mononeuropathy of unspecified lower limb),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G589 (Mononeuropathy, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G609 (Hereditary and idiopathic neuropathy, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G629 (Polyneuropathy, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G8190 (Hemiplegia, unspecified affecting unspecified side)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G8191 (Hemiplegia, unspecified affecting right dominant side) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G8194 (Hemiplegia, unspecified affecting left nondominant side) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G8220 (Paraplegia, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G8222 (Paraplegia, incomplete) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G8250 (Quadriplegia, unspecified) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+G894 (Chronic pain syndrome),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+G9520 (Unspecified cord compression),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"G959 (Disease of spinal cord, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+I6789 (Other cerebrovascular disease),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+I69354 (Hemiplegia and hemiparesis following cerebral infarction affecting left non−dominant side) ,10,Alternative-Neurologic or Vascular-Related Diagnoses 
+I69848 (Other cerebrovascular vasospasm and vasoconstriction),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"I739 (Peripheral vascular disease, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M21339 (Wrist drop, unspecified wrist)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M21371 (Foot drop, right foot)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M21372 (Foot drop, left foot)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+M436 (Torticollis),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+M530 (Cervicocranial syndrome),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+M531 (Cervicobrachial syndrome),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M533 (Sacrococcygeal disorders, not elsewhere classified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5382 (Other specified dorsopathies, cervical region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5386 (Other specified dorsopathies, lumbar region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M539 (Dorsopathy, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5410 (Radiculopathy, site unspecified) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5412 (Radiculopathy, cervical region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5413 (Radiculopathy, cervicothoracic region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5414 (Radiculopathy, thoracic region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5415 (Radiculopathy, thoracolumbar region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5416 (Radiculopathy, lumbar region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5417 (Radiculopathy, lumbosacral region)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5430 (Sciatica, unspecified side)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5431 (Sciatica, right side)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5432 (Sciatica, left side)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5440 (Lumbago with sciatica, unspecified side)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5441(Lumbago with sciatica, right side) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M5442 (Lumbago with sciatica, left side) ",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+M5481 (Occipital neuralgia),10,Alternative-Neurologic or Vascular-Related Diagnoses 
+"M792 (Neuralgia and neuritis, unspecified)",10,Alternative-Neurologic or Vascular-Related Diagnoses 
+K8020 (Calculus of gallbladder without cholecystitis without obstruction),10,Alternative-GI/GU-Related Diagnoses
+N200 (Calculus of kidney),10,Alternative-GI/GU-Related Diagnoses
+"N281 (Cyst of kidney, acquired)",10,Alternative-GI/GU-Related Diagnoses
+"N319 (Neuromuscular dysfunction of bladder, unspecified)",10,Alternative-GI/GU-Related Diagnoses
+R32 (Unspecified urinary incontinence),10,Alternative-GI/GU-Related Diagnoses
+"R339 (Retention of urine, unspecified)",10,Alternative-GI/GU-Related Diagnoses
+D638 (Anemia in other chronic diseases classified elsewhere),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"D649 (Anemia, unspecified)",10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"D696 (Thrombocytopenia, unspecified)",10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"D72829 (Elevated white blood cell count, unspecified)",10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R2689 (Other abnormalities of gait and mobility),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R269 (Unspecified abnormalities of gait and mobility),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R634 (Abnormal weight loss),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+"R339 (Retention of urine, unspecified)",10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R260 (Ataxic gait),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R261 (Paralytic gait),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R2689 (Other abnormalities of gait and mobility),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R269 (Unspecified abnormalities of gait and mobility),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R936 (Abnormal findings on diagnostic imaging of limbs),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
+R937 (Abnormal findings on diagnostic imaging of other parts of musculoskeletal system),10,Testing-Imaging-or-Physical-Exam-Based Diagnoses
