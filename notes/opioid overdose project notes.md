@@ -82,7 +82,7 @@
 
 ## Innovations
 * Truven nationwide data, large sample size. Not limiting to just youths or adolescents.
-* Instead of just using MME, intereact number of pills (or pathes or ml) by MME/pill (or per patch or per ml) to get at the amont dispensed. We could use days supply by after talking to Ryan, he made me realize that days supply is not really accurate. 
+* Instead of just using MME, intereact number of pills (or pathes or ml) by MME/pill (or per patch or per ml) to get at the amont dispensed. We could use days supply but after talking to Ryan, he made me realize that days supply is not really accurate. 
 * Look at interaction between exposure and age (like in the CDIFF paper)
 * If possible stratify by fatal and non-fatal?
 * Maybe also look at both overdoses and dependence abuse sperately?
