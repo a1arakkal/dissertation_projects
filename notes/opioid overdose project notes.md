@@ -19,11 +19,11 @@
 		* Consider dose response 
 		* More/stronger opioids based on MME or quantity dispensed = increased IRR of overdose 
 			* The longer duration of continuous prescriptions = increased IRR of overdose? (e.g.individuals exposed to a family member who has been receiving continuous prescriptions for opioids for 60 days may have greater risk than exposed to a family member who has been receiving continuous prescriptions for opioids for 30 days. Need to think of allowable gaps, maybe 30 days?) 
-		* Look at stockpiling/oversupply (total days supply left over from fill i -  total days supply for i +1) 	(hypothesis family member may be less likely to notice missing medication during times of oversupply?)
+		* Look at stockpiling/oversupply (total days supply left over from fill i -  total days supply for i +1) (hypothesis family member may be less likely to notice missing medication during times of oversupply?)
 	* Type of opioid?
 	* Look at regions across the use that effect vary in high vs low prevalence regions
 * **Chronic vs acute** 
-	* Based on continuous prescription > 30 days (using allowable gap) to define chronic 	prescriptions vs acute prescriptions (<30 days of continuous prescription)
+	* Based on continuous prescription > 30 days (using allowable gap) to define chronic prescriptions vs acute prescriptions (<30 days of continuous prescription)
 	* Effects should be attenuated among chronic users as they are more likely to take all of their meds (less likely to have meds left over that family members can take an overdose on)
 	* Effects should be greater among acute as they may not complete the course of their meds (more likely to have meds left over that family members can take an overdose on)
 
@@ -51,7 +51,7 @@
 	* Race not available 
 
 ## Prior studies
-* https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763605#:~:text=with%20a%20prescription.-,Exposure%20to%20family%20members%20with%20opioid%20prescriptions%20in%20the%20past,CI%2C%203.39%2D12.91).
+* https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763605#:~:text=with%20a%20prescription.-,Exposure%20to%20family%20members%20with%20opioid%20prescriptions%20in%20the%20past,CI%2C%203.39%2D12.91.
 * In this cohort study of 72 040 *adolescents and young adults* (from Kaiser Permanente Colorado health plan in 2006 and observed through June 2018), exposure to family members with opioid prescriptions in the past month was associated with a 2-fold increase in the risk of overdose
 * Youth’s own prescriptions were associated with a more than 6-fold increase in risk. 
 * Concurrent exposure to prescriptions of family members and youth themselves was associated with a nearly 13-fold increase in overdose risk.
@@ -80,6 +80,13 @@
 	* Family unit size
 	* Tract-level median family income 
 
+## Innovations
+* Truven national wide data, large sample size. Not limiting just to youth or adolescents.
+* Instead of just using MME, intereact number of pills (or pathes or ml) by MME/pill (or per path or per ml) to get at the amont dispensed. We could use days supply by after talking to Ryan, he made me realize that days supply is not really accurate. 
+* Look at interaction between exposure and age (like in the CDIFF paper)
+* If possible stratify by fatal and non-fatal
+* Maybe also look at both overdoses and dependence abuse sperately
+* Use data driven approach to classify chronic and acute opioid use (< 30 day as cutoff for acute?), then stratify by chronic vs acute (or add interaction term)
 
 
 
