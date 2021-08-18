@@ -1,6 +1,6 @@
 # Dissertation Projects - Alan Arakkal (dissertation_projects)
  
-This repository contains parameters, scripts and results for the various delayed diagnosis projects. There are three primary folders associated with the various delayed diagnosis projects:
+This repository contains parameters, scripts and results for the various dissertation projects. There are three primary folders associated with the various delayed diagnosis projects:
 
 * **params** - contains the parameters that define the index projects, SSD codes, and additional parameters specific to the projects/analysis.
 * **analysis_scripts** - contains the main analysis scripts and the various projects.
